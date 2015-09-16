@@ -448,7 +448,7 @@ a:hover {
 }
 
 header {
-  padding: 40px 0;
+  padding: 20px 0;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
 }
@@ -477,7 +477,7 @@ header h2 {
 
 .inner {
   position: relative;
-  width: 1260px;
+  width: 1270px;
   margin: 0 auto;
 }
 
