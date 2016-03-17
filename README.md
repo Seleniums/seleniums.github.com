@@ -1,3 +1,3 @@
-# http://seleniums.github.io/
+# seleniums.github.com
 
-github pages
+github pages http://seleniums.github.io/
