@@ -1,3 +1,3 @@
-# seleniums.github.com
+# http://seleniums.github.io/
 
-test github pages
+github pages
